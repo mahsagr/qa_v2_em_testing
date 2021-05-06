@@ -1,0 +1,6 @@
+* Are these tests stable/will they give us false positives?
+    * These tests do give us false positives. Usually the automation is not the most reliable testing and would definitely need to have  manual testing as well to ensure that we don’t get false positives. 
+* Do these tests miss bugs you could find manually following the same processes?
+    * I personally did not find the bugs for these specific tests manually. They all worked the way they should be. I was able to search/add/remove/ take screen shot manually without finding any bugs.
+* What would you change about the testing if you were given enough time?
+    * I would change the fact that you will have to delete the employee that was added as that would make an extra step and let it add as many employees as possible, instead of having limits. 
